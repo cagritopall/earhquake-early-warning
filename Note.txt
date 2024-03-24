@@ -1,0 +1,8 @@
+This Arduino code orchestrates an earthquake detection and safety system, employing
+ADXL335 and ADXL345 accelerometers, a relay, servo motor, buzzer, and voice recognition
+module. It initializes and calibrates the sensors, establishes hardware configurations, and
+sets up voice commands. In the main loop, it continuously monitors accelerometer data,
+65
+triggers alerts and gas shutoff during seismic events, and responds to voice commands for
+activating or deactivating the buzzer. This code amalgamates sensor data, safety
+mechanisms, and user interaction to create a comprehensive earthquake detection system.
